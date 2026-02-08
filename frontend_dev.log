@@ -1,0 +1,13 @@
+nohup: ignoring input
+
+> managergpt-frontend@0.0.1 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v5.4.21  ready in 1369 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+6:13:45 PM [vite] hmr update /src/components/FinalReport.jsx, /src/index.css
+6:14:19 PM [vite] hmr update /src/components/FinalReport.jsx, /src/index.css
