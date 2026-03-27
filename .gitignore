@@ -1,0 +1,11 @@
+.env
+*.log
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
